@@ -25,3 +25,7 @@ Copyright (c) 2013, Yuichi Motoyama, yomichi@tsg.jp
 > FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
 > ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 > DEALINGS IN THE SOFTWARE.
+
+
+SFMT and dSFMT are re-distributed under the new BSD License.
+Please see LICENSE.txt in the SFMT and dSFMT directry.
